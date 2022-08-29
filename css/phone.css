@@ -14,11 +14,13 @@ padding-bottom: 5px;
 }
 #introsection{
     color: #e5df2b;
-    text-shadow: 3px 2px black
+    text-shadow: 3px 2px black;
+    height: 1040px;
 }
 
 #introsection .line1{
     font-size: 22px;
+    margin-top: -290px
 }
 #introsection .line2{
     font-size: 20px;
@@ -71,11 +73,11 @@ padding-bottom: 5px;
 }
 
 .logoline{
-    margin:-12px;
+    margin:-23px;
 }
 
 .logoline img{
-    height: 64px;
+    height: 58px;
 }
 
 #footer{
