@@ -1,0 +1,83 @@
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li{
+    font-size: 13px;
+}
+#navbar ul li a{
+padding: 0px 10px;
+padding-bottom: 5px;
+}
+
+#navbar::before{
+    background-color: #3e3c40;
+}
+#introsection{
+    color: #e5df2b;
+    text-shadow: 3px 2px black
+}
+
+#introsection .line1{
+    font-size: 22px;
+}
+#introsection .line2{
+    font-size: 20px;
+}
+
+#services{
+    height: 3210px;
+}
+#services h1{
+    margin-top: 25px;
+}
+.card{
+    margin: 29px 20px;
+    width:  90%;
+}
+.card img {
+    height: 332px;
+    width: 300px;
+}
+
+.card1{
+    margin: 29px 20px;
+    width:  90%;
+}
+.card1 img {
+    height: 332px;
+    width: 300px;
+}
+
+.card0{
+    margin: 29px 20px;
+    width:  90%;
+}
+.card0 img {
+    height: 332px;
+    width: 300px;
+}
+
+.card3{
+    margin: 29px 20px;
+    width:  90%;
+}
+.card3 img {
+    height: 332px;
+    width: 300px;
+}
+
+#partner{
+    margin-top: 2431px;
+}
+
+.logoline{
+    margin:-12px;
+}
+
+.logoline img{
+    height: 64px;
+}
+
+#footer{
+    font-size: 11px;
+}
