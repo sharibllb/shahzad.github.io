@@ -8,6 +8,9 @@
     font-family: 'Acme', sans-serif;
 
 }
+html{
+    scroll-behavior: smooth;
+}
 
 #navbar{
     display: flex;
