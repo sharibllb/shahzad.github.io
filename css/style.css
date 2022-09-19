@@ -257,7 +257,6 @@ h1{
 }
 .btn:hover{
     border: 2px solid goldenrod;
-    background: none;
     color: blue;
 }
     
