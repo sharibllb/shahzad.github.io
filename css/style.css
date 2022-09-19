@@ -256,7 +256,7 @@ h1{
     cursor: pointer;
 }
 .btn:hover{
-        font-size: 18px;
+    font-size: 18px;
     border: 2px solid goldenrod;
     background: none;
     color: blue;
