@@ -88,6 +88,15 @@ padding-bottom: 5px;
     height: 58px;
 }
 
+/*CONTACT PAGE */
+
+h1{
+    padding: 70px;
+}
+.myinput{
+       width: 330px;
+}
+
 #footer{
     font-size: 11px;
 }
