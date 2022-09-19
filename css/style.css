@@ -227,7 +227,7 @@ p{
 
 h1{
     text-align: center;
-    padding: 13px;
+    padding: 29px;
     margin-top: 44px;
 }
 
@@ -241,7 +241,7 @@ h1{
 .myinput{
     width: 455px;
     margin: 12px;
-    padding: 5px;
+    padding: 7px 15px;
     border: 2px solid darkgoldenrod;
     border-radius: 6px;
     /* outline: none; */
@@ -255,7 +255,14 @@ h1{
     border-radius: 9px;
     cursor: pointer;
 }
-
+.btn:hover{
+        font-size: 18px;
+    border: 2px solid goldenrod;
+    background: none;
+    color: blue;
+}
+    
+    
 #footer{
     height: 55px;
     background-color: rgb(39 36 40);
